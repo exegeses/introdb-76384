@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/MySQL-4D9EB1?style=for-the-badge&logo=mysql&logoColor=white">
 
 > Curso de Introducción a las Bases de datos |      
-> Martes y Jueves de 10hs a 12hs (Arg) |      
+> Miércoles y Viernes de 10hs a 12hs (Arg) |      
 > 9 clases |      
 > Desde 07/03/2024 hasta 04/05/2024 |     
 > Código 76384 |    
