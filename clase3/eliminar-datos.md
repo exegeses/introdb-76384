@@ -1,0 +1,17 @@
+# Baja de registros de una tabla
+
+> Para eliminar registros de una tabla 
+> utilizamos el comando **DELETE**
+> debemos especificar un filtro con 
+> la palabra reservada **WHERE** 
+> seguida de una condición
+
+> Sintáxis:  
+
+    DELETE FROM nombreTabla  
+      WHERE colID = valorID;  
+
+> Ejemplo práctico:  
+
+    DELETE FROM personas  
+      WHERE id = 23;  
